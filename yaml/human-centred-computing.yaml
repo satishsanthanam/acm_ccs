@@ -1,0 +1,197 @@
+details:
+  summary: Human-centred computing
+  ul:
+    li:
+      - details:
+          summary: Human computer interaction (HCI)
+          ul:
+            li:
+              - details:
+                  summary: HCI design and evaluation methods
+                  ul:
+                    li:
+                      - User models
+                      - User studies
+                      - Usability testing
+                      - Heuristic evaluations
+                      - Walkthrough evaluations
+                      - Laboratory experiments
+                      - Field studies
+              - details:
+                  summary: Interaction paradigms
+                  ul:
+                    li:
+                      - Hypertext / hypermedia
+                      - Mixed / augmented reality
+                      - Command line interfaces
+                      - Graphical user interfaces
+                      - Virtual reality
+                      - Web-based interaction
+                      - Natural language interfaces
+                      - Collaborative interaction
+              - details:
+                  summary: Interaction devices
+                  ul:
+                    li:
+                      - Graphics input devices
+                      - Displays and imagers
+                      - Sound-based input / output
+                      - Keyboards
+                      - Pointing devices
+                      - Touch screens
+                      - Haptic devices
+              - details:
+                  summary: HCI theory, concepts and models
+                  ul:
+                    li: 
+                      - Human computer interaction (HCI)
+              - details:
+                  summary: Interaction techniques
+                  ul:
+                    li:
+                      - Auditory feedback
+                      - Text input
+                      - Pointing
+                      - Gestural input
+              - details:
+                  summary: Interactive systems and tools
+                  ul:
+                    li:
+                      - User interface management systems
+                      - User interface programming
+                      - User interface toolkits
+              - Empirical studies in HCI
+      - details:
+          summary: Interaction design
+          ul:
+            li:
+              - details: 
+                  summary: Interaction design process and methods
+                  ul:
+                    li:
+                      - User interface design
+                      - User centered design
+                      - Activity centered design
+                      - Scenario-based design
+                      - Participatory design
+                      - Contextual design
+                      - Interface design prototyping
+              - Interaction design theory, concepts and paradigms
+              - Empirical studies in interaction design
+              - details:
+                  summary: Systems and tools for interaction design
+                  ul:
+                    li:
+                      - Wireframes
+      - details:
+          summary: Collaborative and social computing
+          ul:
+            li:
+              - details:
+                  summary: Collaborative and social computing theory, concepts and paradigms
+                  ul:
+                    li:
+                      - Social content sharing
+                      - Collaborative content creation
+                      - Collaborative filtering
+                      - Social recommendation
+                      - Social networks
+                      - Social tagging
+                      - Computer supported cooperative work
+                      - Social engineering (social sciences)
+                      - Social navigation
+                      - Social media
+              - details:
+                  summary: Collaborative and social computing design and evaluation methods
+                  ul:
+                    li:
+                      - Social network analysis
+                      - Ethnographic studies
+              - details:
+                  summary: Collaborative and social computing systems and tools
+                  ul:
+                    li:
+                      - Blogs
+                      - Wikis
+                      - Reputation systems
+                      - Open source software
+                      - Social networking sites
+                      - Social tagging systems
+                      - Synchronous editors
+                      - Asynchronous editors
+              - details:
+                  summary: Empirical studies in collaborative and social computing
+                  ul:
+                    li:
+                      - Collaborative and social computing
+              - details:
+                  summary: Collaborative and social computing devices
+                  ul:
+                    li:
+                      - Collaborative and social computing
+      - details:
+          summary: Ubiquitous and mobile computing
+          ul:
+            li:
+              - details:
+                  summary: Ubiquitous and mobile computing theory, concepts and paradigms
+                  ul:
+                    li:
+                      - Ubiquitous computing
+                      - Mobile computing
+                      - Ambient intelligence
+              - Ubiquitous and mobile computing systems and tools
+              - details:
+                  summary: Ubiquitous and mobile devices
+                  ul:
+                    li:
+                      - Smartphones
+                      - Interactive whiteboards
+                      - Mobile phones
+                      - Mobile devices
+                      - Portable media players
+                      - Personal digital assistants
+                      - Handheld game consoles
+                      - E-book readers
+                      - Tablet computers
+              - Ubiquitous and mobile computing design and evaluation methods
+              - Empirical studies in ubiquitous and mobile computing
+      - details:
+          summary: Visualization
+          ul:
+            li:
+              - details:
+                  summary: Visualization techniques
+                  ul:
+                    li:
+                      - Treemaps
+                      - Hyperbolic trees
+                      - Heat maps
+                      - Graph drawings
+                      - Dendrograms
+                      - Cladograms
+              - details:
+                  summary: Visualization application domains
+                  ul:
+                    li:
+                      - Scientific visualization
+                      - Visual analytics
+                      - Geographic visualization
+                      - Information visualization
+              - details:
+                  summary: Visualization systems and tools
+                  ul:
+                    li:
+                      - Visualization toolkits
+              - Visualization theory, concepts and paradigms
+              - Empirical studies in visualization
+              - Visualization design and evaluation methods
+      - details:
+          summary: Accessibility
+          ul:
+            li:
+              - Accessibility theory, concepts and paradigms
+              - Empirical studies in accessibility
+              - Accessibility design and evaluation methods
+              - Accessibility technologies
+              - Accessibility systems and tools

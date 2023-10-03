@@ -1,0 +1,139 @@
+details:
+  summary: Security and Privacy
+  ul:
+    li:
+      - details:
+          summary: Cryptography
+          ul:
+            li:
+              - Key management
+              - details:
+                  summary: Public key (asymmetric) techniques
+                  ul:
+                    li:
+                      - Digital signatures
+                      - Public key encryption
+              - details:
+                  summary: Symmetric cryptography and hash functions
+                  ul:
+                    li:
+                      - Block and stream ciphers
+                      - Hash functions and message authentication codes
+              - Cryptanalysis and other attacks
+              - Information-theoretic techniques
+              - Mathematical foundations of cryptography
+      - details:
+          summary: Formal methods and theory of security
+          ul:
+            li:
+              - Trust frameworks
+              - Security requirements
+              - Formal security models
+              - Logic and verification
+      - details:
+          summary: Security services
+          ul:
+            li:
+              - details: 
+                  summary: Authentication
+                  ul:
+                    li: 
+                      - Biometrics
+                      - Graphical / visual passwords
+                      - Multi-factor authentication
+              - Access control
+              - Pseudonymity, anonymity and untraceability
+              - Privacy-preserving protocols
+              - Digital rights management
+              - Authorization
+      - details:
+          summary: Intrusion/anomaly detection and malware mitigation
+          ul:
+            li:
+              - Malware and its mitigation
+              - details:
+                  summary: Intrusion detection systems
+                  ul:
+                    li:
+                      - Artificial immune systems
+              - details:
+                  summary: Social engineering attacks
+                  ul:
+                    li:
+                      - Spoofing attacks
+                      - Phishing
+      - details:
+          summary: Security in hardware
+          ul:
+            li:
+              - Tamper-proof and tamper-resistant designs
+              - Embedded systems security
+              - details:
+                  summary: Hardware security implementation
+                  ul:
+                    li:
+                      - Hardware-based security protocols
+              - details:
+                  summary: Hardware attacks and countermeasures
+                  ul:
+                    li:
+                      - Malicious design modifications
+                      - Side-channel analysis and countermeasures
+              - Hardware reverse engineering
+      - details:
+          summary: Systems security
+          ul:
+            li:
+              - details:
+                  summary: Operating systems security
+                  ul:
+                    li:
+                      - Mobile platform security
+                      - Trusted computing
+                      - Virtualization and security
+              - Browser security
+              - Distributed systems security
+              - Information flow control
+              - Denial-of-service attacks
+              - Firewalls
+              - details:
+                  summary: Vulnerability management
+                  ul:
+                    li: 
+                      - Penetration testing
+                      - Vulnerability scanners
+              - File system security
+      - details:
+          summary: Network security
+          ul:
+            li:
+              - Security protocols
+              - Web protocol security
+              - Mobile and wireless security
+              - Denial-of-service attacks
+              - Firewalls
+      - details:
+          summary: Database and storage security
+          ul:
+            li:
+              - Data anonymization and sanitization
+              - Management and querying of encrypted data
+              - Information accountability and usage control
+              - Database activity monitoring
+      - details:
+          summary: Software and application security
+          ul:
+            li:
+              - Software security engineering
+              - Web application security
+              - Social network security and privacy
+              - Domain-specific security and privacy architectures
+              - Software reverse engineering
+      - details:
+          summary: Human and societal aspects of security and privacy
+          ul:
+            li:
+              - Economics of security and privacy
+              - Social aspects of security and privacy
+              - Privacy protections
+              - Usability in security and privacy

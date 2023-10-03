@@ -1,0 +1,440 @@
+details:
+  summary: Computing methodologies
+  ul:
+    li:
+      - details:
+          summary: Symbolic and algebraic manipulation
+          ul:
+            li:
+              - details:
+                  summary: Symbolic and algebraic algorithms
+                  ul:
+                    li:
+                      - Combinatorial algorithms
+                      - Algebraic algorithms
+                      - Nonalgebraic algorithms
+                      - Symbolic calculus algorithms
+                      - Exact arithmetic algorithms
+                      - Hybrid symbolic-numeric methods
+                      - Discrete calculus algorithms
+                      - Number theory algorithms
+                      - Equation and inequality solving algorithms
+                      - Linear algebra algorithms
+                      - Theorem proving algorithms
+                      - Boolean algebra algorithms
+                      - Optimization algorithms
+              - details:
+                  summary: Computer algebra systems
+                  ul:
+                    li:
+                      - Special-purpose algebraic systems
+              - details:
+                  summary: Representation of mathematical objects
+                  ul:
+                    li: 
+                      - Representation of exact numbers
+                      - Representation of mathematical functions
+                      - Representation of Boolean functions
+                      - Representation of polynomials
+      - details:
+          summary: Parallel computing methodologies
+          ul:
+            li:
+              - details:
+                  summary: Parallel algorithms
+                  ul:
+                    li:
+                      - MapReduce algorithms
+                      - Self-organization
+                      - Shared memory algorithms
+                      - Vector / streaming algorithms
+                      - Massively parallel algorithms
+              - Parallel programming languages
+      - details:
+          summary: Artificial intelligence
+          ul:
+            li:
+              - details:
+                  summary: Natural language processing
+                  ul:
+                    li:
+                      - Information extraction
+                      - Machine translation
+                      - Discourse, dialogue and pragmatics
+                      - Natural language generation
+                      - Speech recognition
+                      - Lexical semantics
+                      - Phonology / morphology
+                      - Language resources
+              - details:
+                  summary: Knowledge representation and reasoning
+                  ul:
+                    li:
+                      - Description logics
+                      - Semantic networks
+                      - Nonmonotonic, default reasoning and belief revision
+                      - Probabilistic reasoning
+                      - Vagueness and fuzzy logic
+                      - Causal reasoning and diagnostics
+                      - Temporal reasoning
+                      - Cognitive robotics
+                      - Ontology engineering
+                      - Logic programming and answer set programming
+                      - Spatial and physical reasoning
+                      - Reasoning about belief and knowledge
+              - details:
+                  summary: Planning and scheduling
+                  ul:
+                    li:
+                      - Planning for deterministic actions
+                      - Planning under uncertainty
+                      - Multi-agent planning
+                      - Planning with abstraction and generalization
+                      - Robotic planning
+                      - Evolutionary robotics
+              - details:
+                  summary: Search methodologies
+                  ul:
+                    li:
+                      - Heuristic function construction
+                      - Discrete space search
+                      - Continuous space search
+                      - Randomized search
+                      - Game tree search
+                      - Abstraction and micro-operators
+                      - Search with partial observations
+              - details:
+                  summary: Control methods
+                  ul:
+                    li:
+                      - details:
+                          summary: Robotic planning
+                          ul:
+                            li:
+                              - Evolutionary robotics
+                      - Computational control theory
+                      - Motion path planning
+              - details:
+                  summary: Philosophical/theoretical foundations of artificial intelligence
+                  ul:
+                    li:
+                      - Cognitive science
+                      - Theory of mind
+              - details:
+                  summary: Distributed artificial intelligence
+                  ul:
+                    li:
+                      - Multi-agent systems
+                      - Intelligent agents
+                      - Mobile agents
+                      - Cooperation and coordination
+              - details:
+                  summary: Computer vision
+                  ul:
+                    li:
+                      - details: 
+                          summary: Computer vision tasks
+                          ul:
+                            li:
+                              - Biometrics
+                              - Scene understanding
+                              - Activity recognition and understanding
+                              - Video summarization
+                              - Visual content-based indexing and retrieval
+                              - Visual inspection
+                              - Vision for robotics
+                              - Scene anomaly detection
+                      - details: 
+                          summary: Image and video acquisition
+                          ul:
+                            li:
+                              - Camera calibration
+                              - Epipolar geometry
+                              - Computational photography
+                              - Hyperspectral imaging
+                              - Motion capture
+                              - 3D imaging
+                              - Active vision
+                      - details: 
+                          summary: Computer vision representations
+                          ul:
+                            li:
+                              - Image representations
+                              - Shape representations
+                              - Appearance and texture representations
+                              - Hierarchical representations
+                      - details: 
+                          summary: Computer vision problems
+                          ul:
+                            li:
+                              - Interest point and salient region detections
+                              - Image segmentation
+                              - Video segmentation
+                              - Shape inference
+                              - Object detection
+                              - Object recognition
+                              - Object identification
+                              - Tracking
+                              - Reconstruction
+                              - Matching
+      - details:
+          summary: Machine learning
+          ul:
+            li:
+              - details:
+                  summary: Learning paradigms
+                  ul:
+                    li:
+                      - details:
+                          summary: Supervised learning
+                          ul:
+                            li:
+                              - Ranking
+                              - Learning to rank
+                              - Supervised learning by classification
+                              - Supervised learning by regression
+                              - Structured outputs
+                              - Cost-sensitive learning
+                      - details:
+                          summary: Unsupervised learning
+                          ul:
+                            li:
+                              - Cluster analysis
+                              - Anomaly detection
+                              - Mixture modeling
+                              - Topic modeling
+                              - Source separation
+                              - Motif discovery
+                              - Dimensionality reduction and manifold learning
+                      - details:
+                          summary: Reinforcement learning
+                          ul:
+                            li:
+                              - Sequential decision making
+                              - Inverse reinforcement learning
+                              - Apprenticeship learning
+                              - Multi-agent reinforcement learning
+                              - Adversarial learning
+                      - details:
+                          summary: Multi-task learning
+                          ul:
+                            li:
+                              - Transfer learning
+                              - Lifelong machine learning
+                              - Learning under covariate shift
+              - details:
+                  summary: Learning settings
+                  ul:
+                    li:
+                      - Batch learning
+                      - Online learning settings
+                      - Learning from demonstrations
+                      - Learning from critiques
+                      - Learning from implicit feedback
+                      - Active learning settings
+                      - Semi-supervised learning settings
+              - details:
+                  summary: Machine learning approaches
+                  ul:
+                    li:
+                      - Classification and regression trees
+                      - details:
+                          summary: Kernel methods
+                          ul:
+                            li:
+                              - Support vector machines
+                              - Gaussian processes
+                      - Neural networks
+                      - details:
+                          summary: Logical and relational learning
+                          ul:
+                            li:
+                              - Inductive logic learning
+                              - Statistical relational learning
+                      - details:
+                          summary: Learning in probabilistic graphical models
+                          ul:
+                            li:
+                              - Maximum likelihood modeling
+                              - Maximum entropy modeling
+                              - Maximum a posteriori modeling
+                              - Mixture models
+                              - Latent variable models
+                              - Bayesian network models
+                      - details:
+                          summary: Learning linear models
+                          ul:
+                            li:
+                              - Perceptron algorithm
+                      - details:
+                          summary: Factorization methods
+                          ul:
+                            li:
+                              - Non-negative matrix factorization
+                              - Factor analysis
+                              - Principal component analysis
+                              - Canonical correlation analysis
+                              - Latent Dirichlet allocation
+                      - Rule learning
+                      - Instance-based learning
+                      - Markov decision processes
+                      - Partially-observable Markov decision processes
+                      - Stochastic games
+                      - details:
+                          summary: Learning latent representations
+                          ul:
+                            li:
+                              - Deep belief networks
+                      - details:
+                          summary: Bio-inspired approaches
+                          ul:
+                            li:
+                              - Artificial life
+                              - Evolvable hardware
+                              - Genetic algorithms
+                              - Genetic programming
+                              - Evolutionary robotics
+                              - Generative and developmental approaches
+              - details:
+                  summary: Machine learning algorithms
+                  ul:
+                    li:
+                      - details:
+                          summary: Dynamic programming for Markov decision processes
+                          ul:
+                            li:
+                              - Value iteration
+                              - Q-learning
+                              - Policy iteration
+                              - Temporal difference learning
+                              - Approximate dynamic programming methods
+                      - details:
+                          summary: Ensemble methods
+                          ul:
+                            li:
+                              - Boosting
+                              - Bagging
+                      - Spectral methods
+                      - Feature selection
+                      - Regularization
+              - Cross-validation
+      - details:
+          summary: Modeling and simulation
+          ul:
+            li:
+              - details:
+                  summary: Model development and analysis
+                  ul:
+                    li:
+                      - Modeling methodologies
+                      - Model verification and validation
+                      - Uncertainty quantification
+              - details:
+                  summary: Simulation theory
+                  ul:
+                    li:
+                      - Systems theory
+                      - Network science
+              - details:
+                  summary: Simulation types and techniques
+                  ul:
+                    li:
+                      - Uncertainty quantification
+                      - Quantum mechanic simulation
+                      - Molecular simulation
+                      - Rare-event simulation
+                      - Discrete-event simulation
+                      - Agent / discrete models
+                      - Distributed simulation
+                      - Continuous simulation
+                      - Continuous models
+                      - Real-time simulation
+                      - Interactive simulation
+                      - Multiscale systems
+                      - Massively parallel and high-performance simulations
+                      - Data assimilation
+                      - Scientific visualization
+                      - Visual analytics
+                      - Simulation by animation
+                      - Artificial life
+              - details:
+                  summary: Simulation support systems
+                  ul:
+                    li:
+                      - Simulation environments
+                      - Simulation languages
+                      - Simulation tools
+              - details:
+                  summary:
+                  ul:
+                    li:
+                      - Simulation evaluation
+      - details:
+          summary: Computer graphics
+          ul:
+            li:
+              - details:
+                  summary: Animation
+                  ul:
+                    li:
+                      - Motion capture
+                      - Procedural animation
+                      - Physical simulation
+                      - Motion processing
+                      - Collision detection
+              - details:
+                  summary: Rendering
+                  ul:
+                    li:
+                      - Rasterization
+                      - Ray tracing
+                      - Non-photorealistic rendering
+                      - Reflectance modeling
+                      - Visibility
+              - details:
+                  summary: Image manipulation
+                  ul:
+                    li:
+                      - Computational photography
+                      - Image processing
+                      - Texturing
+                      - Image-based rendering
+                      - Antialiasing
+              - details:
+                  summary: Graphics systems and interfaces
+                  ul:
+                    li:
+                      - Graphics processors
+                      - Graphics input devices
+                      - Mixed / augmented reality
+                      - Perception
+                      - Graphics file formats
+                      - Virtual reality
+              - Image compression
+              - details:
+                  summary: Shape modeling
+                  ul:
+                    li:
+                      - Mesh models
+                      - Mesh geometry models
+                      - Parametric curve and surface models
+                      - Point-based models
+                      - Volumetric models
+                      - Shape analysis
+      - details:
+          summary: Distributed computing methodologies
+          ul:
+            li:
+              - details:
+                  summary: Distributed algorithms
+                  ul:
+                    li:
+                      - MapReduce algorithms
+                      - Self-organization
+              - Distributed programming languages
+      - details:
+          summary: Concurrent computing methodologies
+          ul:
+            li:
+              - Concurrent programming languages
+              - Concurrent algorithms

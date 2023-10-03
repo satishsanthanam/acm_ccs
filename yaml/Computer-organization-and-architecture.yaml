@@ -1,0 +1,99 @@
+details:
+  summary: Computer systems organization
+  ul:
+    li:
+      - details:
+          summary: Architectures
+          ul:
+            li:
+              - details:
+                  summary: Serial architectures
+                  ul:
+                    li:
+                      - Reduced instruction set computing
+                      - Complex instruction set computing
+                      - Superscalar architectures
+                      - Pipeline computing
+                      - Stack machines
+                      - PCB design and layout
+              - details:
+                  summary: Parallel architectures
+                  ul:
+                    li:
+                      - Very long instruction word
+                      - Interconnection architectures
+                      - Multiple instruction, multiple data
+                      - Cellular architectures
+                      - Multiple instruction, single data
+                      - Single instruction, multiple data
+                      - Systolic arrays
+                      - Multicore architectures
+              - details:
+                  summary: Distributed architectures
+                  ul:
+                    li:
+                      - Distributed architectures
+                      - Cloud computing
+                      - Client-server architectures
+                      - n-tier architectures
+                      - Peer-to-peer architectures
+                      - Grid computing
+              - details:
+                  summary: Other architectures
+                  ul:
+                    li:
+                      - Neural networks
+                      - Reconfigurable computing
+                      - Analog computers
+                      - Data flow architectures
+                      - Heterogeneous (hybrid) systems
+                      - Self-organizing autonomic computing
+                      - Optical computing
+                      - Quantum computing
+                      - Molecular computing
+                      - High-level language architectures
+                      - Special purpose systems
+      - details:
+          summary: Embedded and cyber-physical systems
+          ul:
+            li:
+              - Sensor networks
+              - details:
+                  summary: Robotics
+                  ul:
+                    li:
+                      - Robotic components
+                      - details: 
+                          summary: Robotic control
+                          ul:
+                            li:
+                              - Evolutionary robotics
+                      - Robotic autonomy
+                      - External interfaces for robotics
+              - Sensors and actuators
+              - System on a chip
+              - details: 
+                  summary: Embedded systems
+                  ul:
+                    li:
+                      - Firmware
+                      - Embedded hardware
+                      - Embedded software
+      - details: 
+          summary: Real-time systems
+          ul:
+            li:
+              - Real-time operating systems
+              - Real-time languages
+              - Real-time system specification
+              - Real-time system architecture
+      - details: 
+          summary: Dependable and fault-tolerant systems and networks
+          ul:
+            li:
+              - Reliability
+              - Availability
+              - Maintainability and maintenance
+              - Processors and memory architectures
+              - Secondary storage organization
+              - Fault-tolerant network topologies

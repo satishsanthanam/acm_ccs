@@ -1,0 +1,249 @@
+details: 
+  summary: Mathematics of computing
+  ul:
+    li:
+      - details:
+          summary: Discrete Mathematics
+          ul:
+            li:
+              - details:
+                  summary: Combinatorics
+                  ul:
+                    li:
+                      - Combinatoric problems
+                      - Permutations and combinations
+                      - Combinatorial algorithms
+                      - Generating functions
+                      - Combinatorial optimization
+                      - Combinatorics on words
+                      - Enumeration
+              - details:
+                  summary: Graph theory
+                  ul:
+                    li:
+                      - Trees
+                      - Hypergraphs
+                      - Random graphs
+                      - Graph coloring
+                      - Paths and connectivity problems
+                      - Graph enumeration
+                      - Matchings and factors
+                      - Graphs and surfaces
+                      - Network flows
+                      - Spectra of graphs
+                      - Extremal graph theory
+                      - Matroids and greedoids
+                      - Graph algorithms
+                      - Approximation algorithms
+      - details:
+          summary: Probability and statistics
+          ul:
+            li:
+              - details:
+                  summary: Probabilistic representations
+                  ul:
+                    li:
+                      - Bayesian networks
+                      - Markov networks
+                      - Factor graphs
+                      - Decision diagrams
+                      - Equational models
+                      - Causal networks
+                      - Stochastic differential equations
+                      - details:
+                          summary: Nonparametric representations
+                          ul:
+                            li:
+                              - Kernel density estimators
+                              - Spline models
+                              - Bayesian nonparametric models
+              - details:
+                  summary: Probabilistic inference problems
+                  ul:
+                    li:
+                      - Maximum likelihood estimation
+                      - Bayesian computation
+                      - Computing most probable explanation
+                      - Hypothesis testing and confidence interval computation
+                      - details:
+                          summary: Density estimation
+                          ul:
+                            li:
+                              - Quantile regression
+                      - Max marginal computation
+              - details:
+                  summary: Probabilistic reasoning algorithms
+                  ul:
+                    li:
+                      - Variable elimination
+                      - Loopy belief propagation
+                      - Variational methods
+                      - Expectation maximization
+                      - details:
+                          summary: Markov-chain Monte Carlo methods
+                          ul:
+                            li:
+                              - Gibbs sampling
+                              - Metropolis-Hastings algorithm
+                              - Simulated annealing
+                              - Markov-chain Monte Carlo convergence measures
+                      - Sequential Monte Carlo methods
+                      - Kalman filters and hidden Markov models
+                      - details:
+                          summary: Resampling methods
+                          ul:
+                            li:
+                              - Bootstrapping
+                              - Jackknifing
+                      - Random number generation
+              - Probabilistic algorithms
+              - details:
+                  summary: Statistical paradigms
+                  ul:
+                    li:
+                      - Queueing theory
+                      - Contingency table analysis
+                      - details:
+                          summary: Regression analysis
+                          ul:
+                            li:
+                              - Robust regression
+                      - Time series analysis
+                      - Survival analysis
+                      - Renewal theory
+                      - Dimensionality reduction
+                      - Cluster analysis
+                      - Statistical graphics
+                      - Exploratory data analysis
+              - details:
+                  summary: Probabilistic inference problems
+                  ul:
+                    li:
+                      - details:
+                          summary: Stochastic processes
+                          ul:
+                            li:
+                              - Markov processes
+              - Nonparametric statistics
+              - Distribution functions
+              - Multivariate statistics
+      - details:
+          summary: Mathematical software
+          ul:
+            li:
+              - Solvers
+              - Statistical software
+              - Mathematical software performance
+      - details:
+          summary: Information theory
+          ul:
+            li:
+              - Coding theory
+      - details:
+          summary: Mathematical analysis
+          ul:
+            li:
+              - details:
+                  summary: Numerical analysis
+                  ul:
+                    li:
+                      - Computation of transforms
+                      - Computations in finite fields
+                      - Computations on matrices
+                      - details:
+                          summary: Computations on polynomials
+                          ul:
+                            li:
+                              - Gröbner bases and other special bases
+                      - Number-theoretic computations
+                      - Interpolation
+                      - Numerical differentiation
+                      - Interval arithmetic
+                      - Arbitrary-precision arithmetic
+                      - Automatic differentiation
+                      - Mesh generation
+                      - Discretization
+              - details:
+                  summary: Mathematical optimization
+                  ul:
+                    li:                   
+                      - details:
+                          summary: Discrete optimization
+                          ul:
+                            li:
+                              - Network optimization
+                              - details:
+                                  summary: Optimization with randomized search heuristics
+                                  ul:
+                                    li:
+                                      - Simulated annealing
+                                      - Evolutionary algorithms
+                                      - Tabu search
+                                      - Randomized local search
+                      - details:
+                          summary: Continuous optimization
+                          ul:
+                            li:
+                              - Linear programming
+                              - Semidefinite programming
+                              - Convex optimization
+                              - Quasiconvex programming and unimodality
+                              - Stochastic control and optimization
+                              - Quadratic programming
+                              - Nonconvex optimization
+                              - Bio-inspired optimization
+                      - details:
+                          summary: Mixed discrete-continuous optimization
+                          ul:
+                            li:
+                              - Submodular optimization and polymatroids
+                              - Integer programming
+                              - Bio-inspired optimization
+                      - details:
+                          summary: Non-parametric optimization
+                          ul:
+                            li:
+                              - Genetic programming
+                              - Developmental representations
+              - details:
+                  summary: Differential equations
+                  ul:
+                    li:                   
+                      - Ordinary differential equations
+                      - Partial differential equations
+                      - Differential algebraic equations
+                      - Differential variational inequalities
+              - details:
+                  summary: Calculus
+                  ul:
+                    li:                   
+                      - Lambda calculus
+                      - Differential calculus
+                      - Integral calculus
+              - details:
+                  summary: Functional analysis
+                  ul:
+                    li:                   
+                      - Approximation
+              - Integral equations
+              - Nonlinear equations
+              - Quadrature
+      - details:
+          summary: Continuous mathematics
+          ul:
+            li:
+              - details:
+                  summary: Calculus
+                  ul:
+                    li:
+                      - Lambda calculus
+                      - Differential calculus
+                      - Integral calculus
+              - details:
+                  summary: Topology
+                  ul:
+                    li:
+                      - Point-set topology
+                      - Algebraic topology
+                      - Geometric topology
+              - Continuous functions

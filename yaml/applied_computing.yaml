@@ -1,0 +1,265 @@
+details:
+  summary: Applied computing
+  ul:
+    li: 
+      - details:
+          summary: Electronic commerce
+          ul:
+            li:
+              - Digital cash
+              - E-commerce infrastructure
+              - Electronic data interchange
+              - Electronic funds transfer
+              - Online shopping
+              - Online banking
+              - Secure online transactions
+              - Online auctions
+      - details:
+          summary: Enterprise computing
+          ul:
+            li:
+              - details:
+                  summary: Enterprise information systems
+                  ul:
+                    li:
+                      - Intranets
+                      - Extranets
+                      - Enterprise resource planning
+                      - Enterprise applications
+                      - Data centers
+              - details:
+                  summary: Business process management
+                  ul:
+                    li:
+                      - Business process modeling
+                      - Business process management systems
+                      - Business process monitoring
+                      - Cross-organizational business processes
+                      - Business intelligence
+              - details:
+                  summary: Enterprise architectures
+                  ul:
+                    li:
+                      - Enterprise architecture management
+                      - Enterprise architecture frameworks
+                      - Enterprise architecture modeling
+              - Service-oriented architectures
+              - Event-driven architectures
+              - Business rules
+              - Enterprise modeling
+              - Enterprise ontologies, taxonomies and vocabularies
+              - Enterprise data management
+              - Reference models
+              - Business-IT alignment
+              - IT architectures
+              - IT governance
+              - Enterprise computing infrastructures
+              - details:
+                  summary: Enterprise interoperability
+                  ul:
+                    li:
+                      - Enterprise application integration
+                      - Information integration and interoperability
+      - details:
+          summary: Physical sciences and engineering
+          ul:
+            li:
+              - details:
+                  summary: Aerospace
+                  ul:
+                    li:
+                      - Avionics
+              - Archaeology
+              - Astronomy
+              - Chemistry
+              - details:
+                  summary: Earth and atmospheric sciences
+                  ul:
+                    li:
+                      - Environmental sciences
+              - details:
+                  summary: Engineering
+                  ul:
+                    li:
+                      - Computer-aided design
+              - Physics
+              - Mathematics and statistics
+              - details:
+                  summary: Electronics
+                  ul:
+                    li:
+                      - Avionics
+              - details:
+                  summary: Telecommunications
+                  ul:
+                    li:
+                      - Internet telephony
+      - details:
+          summary: Life and medical sciences
+          ul:
+            li:
+              - details:
+                  summary: Computational biology
+                  ul:
+                    li:
+                      - Molecular sequence analysis
+                      - Recognition of genes and regulatory elements
+                      - Molecular evolution
+                      - Computational transcriptomics
+                      - Biological networks
+                      - Sequencing and genotyping technologies
+                      - Imaging
+                      - Computational proteomics
+                      - Molecular structural biology
+                      - Computational genomics                      - 
+              - details:
+                  summary: Genomics
+                  ul:
+                    li:
+                      - Computational genomics
+              - Systems biology
+              - Consumer health
+              - Health care information systems
+              - Health informatics
+              - Bioinformatics
+              - Metabolomics / metabonomics
+              - details:
+                  summary: Genetics
+                  ul:
+                    li:
+                      - Population genetics
+                      - details:
+                          summary: Proteomics
+                          ul:
+                            li: Computational proteomics
+                      - Transcriptomics
+      - details:
+          summary: Law, social and behavioral sciences
+          ul:
+            li:
+              - details:
+                  summary: Anthropology
+                  ul:
+                    li:
+                      - Ethnography
+              - Law
+              - Psychology
+              - Economics
+              - Sociology
+      - details:
+          summary: Computer forensics
+          ul:
+            li:
+              - Surveillance mechanisms
+              - Investigation techniques
+              - Evidence collection, storage and analysis
+              - Network forensics
+              - System forensics
+              - Data recovery
+      - details:
+          summary: Arts and humanities
+          ul:
+            li:
+              - Fine arts
+              - Performing arts
+              - details:
+                  summary: Architecture (buildings)
+                  ul:
+                    li:
+                      - Computer-aided design
+              - Language translation
+              - Media arts
+              - Sound and music computing
+      - details:
+          summary: Computers in other domains
+          ul:
+            li:
+              - Digital libraries and archives
+              - Publishing
+              - details:
+                  summary: Military
+                  ul:
+                    li:
+                      - Cyberwarfare
+              - Cartography
+              - Agriculture
+              - details:
+                  summary: Computing in government
+                  ul:
+                    li:
+                      - Voting / election technologies
+                      - E-government
+              - details:
+                  summary: Personal computers and PC applications
+                  ul:
+                    li:
+                      - Word processors
+                      - Spreadsheets
+                      - Computer games
+                      - Microcomputers
+      - details:
+          summary: Operations research
+          ul:
+            li:
+              - Consumer products
+              - details:
+                  summary: Industry and manufacturing
+                  ul:
+                    li:
+                      - Supply chain management
+                      - Command and control
+              -  Computer-aided manufacturing
+              - details:
+                  summary: Decision analysis
+                  ul:
+                    li:
+                      - Multi-criterion optimization and decision-making
+              -  Transportation
+              -  Forecasting
+              -  Marketing
+      - details:
+          summary: Education
+          ul:
+            li:
+              - Digital libraries and archives
+              - Computer-assisted instruction
+              - Interactive learning environments
+              - Collaborative learning
+              - Learning management systems
+              - Distance learning
+              - E-learning
+              - Computer-managed instruction
+      - details:
+          summary: Document management and text processing
+          ul:
+            li:
+              - Document searching
+              - details:
+                  summary: Document management
+                  ul:
+                    li:
+                      - Text editing
+                      - Version control
+                      - Document metadata
+              - details:
+                  summary: Document capture
+                  ul:
+                    li:
+                      - Document analysis
+                      - Document scanning
+                      - Graphics recognition and interpretation
+                      - Optical character recognition
+                      - Online handwriting recognition
+              - details:
+                  summary: Document preparation
+                  ul:
+                    li:
+                      - Markup languages
+                      - Extensible Markup Language (XML)
+                      - Hypertext languages
+                      - Annotation
+                      - Format and notation
+                      - Multi / mixed media creation
+                      - Image composition
+                      - Hypertext / hypermedia creation
+                      - Document scripting languages

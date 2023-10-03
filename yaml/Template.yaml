@@ -1,0 +1,19 @@
+details:
+  summary: Hardware
+  ul:
+    li:
+      details:
+        - summary: Printed circuit boards
+          ul:
+            li:
+              - Electromagnetic interference and compatibility
+              - PCB design and layout
+        - summary: Communication hardware, interfaces and storage
+          ul:
+            li:
+              - details:
+                summary: Signal processing systems
+                ul:
+                  li:
+                    - Digital signal processing
+                    - Beamforming

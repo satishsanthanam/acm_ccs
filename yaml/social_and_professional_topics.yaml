@@ -1,0 +1,214 @@
+details: 
+  summary: Social and professional topics
+  ul:
+    li:
+      - details:
+          summary: Professional topics
+          ul:
+            li:
+              - details:
+                  summary: Computing industry
+                  ul:
+                    li:
+                      - Industry statistics
+                      - Computer manufacturing
+                      - Sustainability
+              - details:
+                  summary: Management of computing and information systems
+                  ul:
+                    li:
+                      - details:
+                          summary: Project and people management
+                          ul:
+                            li:
+                              - Project management techniques
+                              - Project staffing
+                              - Systems planning
+                              - Systems analysis and design
+                              - Systems development
+                              - Computer and information systems training
+                      - details:
+                          summary: Implementation management
+                          ul:
+                            li:
+                              - Hardware selection
+                              - Computing equipment management
+                              - Pricing and resource allocation
+                      - details:
+                          summary: Software management
+                          ul:
+                            li:
+                              - Software maintenance
+                              - Software selection and adaptation
+                      - details:
+                          summary: System management
+                          ul:
+                            li:
+                              - Centralization / decentralization
+                              - Technology audits
+                              - Quality assurance
+                      - Network operations
+                      - File systems management
+                      - Information system economics
+              - details:
+                  summary: History of computing
+                  ul:
+                    li:
+                      - Historical people
+                      - History of hardware
+                      - History of software
+                      - History of programming languages
+                      - History of computing theory
+              - details:
+                  summary: Computing education
+                  ul:
+                    li:
+                      - Computational thinking
+                      - Accreditation
+                      - Model curricula
+                      - details:
+                          summary: Computing education programs
+                          ul:
+                            li:
+                              - Information systems education
+                              - Computer science education
+                              - CS1
+                              - Computer engineering education
+                              - Information technology education
+                              - Information science education
+                              - Computational science and engineering education
+                              - Software engineering education
+                      - Informal education
+                      - Computing literacy
+                      - Student assessment
+                      - K-12 education
+                      - Adult education
+              - details:
+                  summary: Computing and business
+                  ul:
+                    li:
+                      - Employment issues
+                      - Automation
+                      - Computer supported cooperative work
+                      - Economic impact
+                      - Offshoring
+                      - Reengineering
+                      - Socio-technical systems
+              - details:
+                  summary: Computing profession
+                  ul:
+                    li:
+                      - Codes of ethics
+                      - Employment issues
+                      - Funding
+                      - Computing occupations
+                      - Computing organizations
+                      - Testing, certification and licensing
+                      - Assistive technologies
+      - details:
+          summary: Computing / technology policy
+          ul:
+            li:
+              - details:
+                  summary: Intellectual property
+                  ul:
+                    li:
+                      - Digital rights management
+                      - Copyrights
+                      - Software reverse engineering
+                      - Patents
+                      - Trademarks
+                      - Internet governance / domain names
+                      - Licensing
+                      - Treaties
+                      - Database protection laws
+                      - Secondary liability
+                      - Soft intellectual property
+                      - Hardware reverse engineering
+              - Privacy policies
+              - details:
+                  summary: Censorship
+                  ul:
+                    li:
+                      - Pornography
+                      - Hate speech
+                      - Political speech
+                      - Technology and censorship
+                      - Censoring filters
+              - details:
+                  summary: Surveillance
+                  ul:
+                    li:
+                      - Governmental surveillance
+                      - Corporate surveillance
+              - details:
+                  summary: Commerce policy
+                  ul:
+                    li:
+                      - Taxation
+                      - Transborder data flow
+                      - Antitrust and competition
+                      - Governmental regulations
+                      - Online auctions policy
+                      - Consumer products policy
+              - details:
+                  summary: Network access control
+                  ul:
+                    li:
+                      - Censoring filters
+                      - Broadband access
+                      - Net neutrality
+                      - Network access restrictions
+                      - Age-based restrictions
+                      - Acceptable use policy restrictions
+                      - Universal access
+              - details:
+                  summary: Computer crime
+                  ul:
+                    li:
+                      - Social engineering attacks
+                      - Spoofing attacks
+                      - Phishing
+                      - Identity theft
+                      - Financial crime
+                      - Malware / spyware crime
+              - details:
+                  summary: Government technology policy
+                  ul:
+                    li:
+                      - Governmental regulations
+                      - Import / export controls
+              - details:
+                  summary: Medical information policy
+                  ul:
+                    li:
+                      - Medical records
+                      - Personal health records
+                      - Genetic information
+                      - Patient privacy
+                      - Health information exchanges
+                      - Medical technologies
+                      - Remote medicine
+      - details:
+          summary: User characteristics
+          ul:
+            li:
+              - Race and ethnicity
+              - Religious orientation
+              - details:
+                  summary: Gender
+                  ul:
+                    li:
+                      - Men
+                      - Women
+              - Sexual orientation
+              - People with disalities
+              - Geographic characteristics
+              - Cultural characteristics
+              - details:
+                  summary: Age
+                  ul:
+                    li:
+                      - Children
+                      - Seniors
+                      - Adolescents

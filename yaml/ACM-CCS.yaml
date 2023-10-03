@@ -1,0 +1,214 @@
+details:
+  summary: Network
+  ul:
+    li:
+      - details:
+          summary: Network architectures
+          ul:
+            li:
+              - details:
+                  summary: Network design principles
+                  ul:
+                    li:
+                      - Layering
+                      - Naming and addressing
+              - Programming interfaces
+      - details:
+          summary: Network protocols
+          ul:
+            li:
+              - Network protocol design
+              - details:
+                  summary: Protocol correctness
+                  ul:
+                    li: 
+                      - Protocol testing and verification
+                      - Formal specifications
+              - Link-layer protocols
+              - details:
+                  summary: Network layer protocols
+                  ul:
+                    li:
+                      - Routing protocols
+                      - Signaling protocols
+              - Transport protocols
+              - Session protocols
+              - Presentation protocols
+              - details:
+                  summary: Application layer protocols
+                  ul:
+                    li:
+                      - Peer-to-peer protocols
+              - details:
+                  summary: OAM protocols
+                  ul:
+                    li:
+                      - Time synchronization protocols
+                      - Network policy
+              - Cross-layer protocols
+              - Network File System (NFS) protocol
+      - details:
+          summary: Network components
+          ul:
+            li:
+              - details:
+                  summary: Intermediate nodes
+                  ul:
+                    li: 
+                      - Routers
+                      - Bridges and switches
+              - details:
+                  summary: Physical links
+                  ul:
+                    li:
+                      - Repeaters
+              - Middle boxes / network appliances
+              - details:
+                  summary: End nodes
+                  ul:
+                    li: 
+                      - Network adapters
+                      - Network servers
+              - details:
+                  summary: Wireless access points, base stations and infrastructure
+                  ul:
+                    li:
+                      - Cognitive radios
+              - details:
+                  summary: Logical nodes
+                  ul:
+                    li: 
+                      - Network domains
+      - details:
+          summary: Network algorithms
+          ul:
+            li:
+              - details:
+                  summary: Data path algorithms
+                  ul:
+                    li:
+                      - Packet classification
+                      - Deep packet inspection
+                      - Packet scheduling
+              - details:
+                  summary: Control path algorithms
+                  ul:
+                    li:
+                      - Network resources allocation
+                      - Network control algorithms
+                      - Traffic engineering algorithms
+                      - Network design and planning algorithms
+              - Network economics
+      - details:
+          summary: Network performance evaluation
+          ul:
+            li:
+              - Network performance modeling
+              - Network simulations
+              - Network experimentation
+              - Network performance analysis
+              - Network measurement
+      - details:
+          summary: Network properties
+          ul:
+            li:
+              - details:
+                  summary: Network Security
+                  ul:
+                    li:
+                      - Security protocols
+                      - Web protocol security
+                      - Mobile and wireless security
+                      - Denial-of-service attacks
+                      - Firewalls
+              - details:
+                  summary: Network range
+                  ul:
+                    li:
+                      - Short-range networks
+                      - Local area networks
+                      - Metropolitan area networks
+                      - Wide area networks
+                      - Very long-range networks
+              - details:
+                  summary: Network structure
+                  ul:
+                    li:
+                      - Topology analysis and generation
+                      - Physical topologies
+                      - Logical / virtual topologies
+                      - details:
+                          summary: Network topology types
+                          ul:
+                            li:
+                              - Point-to-point networks
+                              - Bus networks
+                              - Star networks
+                      - details:
+                          summary: Ring networks
+                          ul:
+                            li:
+                              - Token ring networks
+                              - Fiber distributed data interface (FDDI)
+                      - details:
+                          summary: Mesh networks
+                          ul:
+                            li: 
+                              - Wireless mesh networks
+                      - Hybrid networks
+              - Network dynamics
+              - details:
+                  summary: Network reliability
+                  ul: 
+                    li:
+                      - Error detection and error correction
+              - Network mobility
+              - Network manageability
+              - Network privacy and anonymity
+      - details:
+          summary: Network services
+          ul:
+            li:
+              - Naming and addressing
+              - Cloud computing
+              - Location based services
+              - Programmable networks
+              - In-network processing
+              - Network management
+              - Network monitoring
+      - details:
+          summary: Network types
+          ul:
+            li:
+              - Network on chip
+              - Home networks
+              - Storage area networks
+              - Data center networks
+              - Wired access networks
+              - details:
+                  summary: Cyber-physical networks
+                  ul:
+                    li:
+                      - Sensor networks
+              - Mobile networks
+              - details:
+                  summary: Overlay and other logical network structures
+                  ul:
+                    li:
+                      - Peer-to-peer networks
+                      - World Wide Web (network structure)
+                      - Social media networks
+                      - Online social networks
+              - details:
+                  summary: Wireless access networks
+                  ul:
+                    li:
+                      - Wireless local area networks
+                      - Wireless personal area networks
+              - details:
+                  summary: Ad hoc networks
+                  ul:
+                    li:
+                      - Mobile ad hoc networks
+              - Public Internet
+              - Packet-switching networks

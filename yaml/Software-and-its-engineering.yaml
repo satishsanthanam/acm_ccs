@@ -1,0 +1,348 @@
+details:
+  summary: Software and its engineering
+  ul:
+    li:
+      - details:
+          summary: Software organization and properties
+          ul:
+            li:
+              - details:
+                  summary: Contextual software domains
+                  ul:
+                    li:
+                      - E-commerce infrastructure
+                      - details:
+                          summary: Software infrastructure
+                          ul:
+                            li:
+                              - Interpreters
+                              - details:
+                                  summary: Middleware
+                                  ul:
+                                    li:
+                                      - Message oriented middleware
+                                      - Reflective middleware
+                                      - Embedded middleware
+                              - Virtual machines
+                      - details:
+                          summary: Operating systems
+                          ul:
+                            li:
+                              - File systems management
+                              - details:
+                                  summary: Memory management
+                                  ul:
+                                    li:
+                                      - Virtual memory
+                                      - Main memory
+                                      - Allocation / deallocation strategies
+                                      - Garbage collection
+                                      - Distributed memory
+                                      - Secondary storage
+                              - details:
+                                  summary: Process management
+                                  ul:
+                                    li:
+                                      - Scheduling
+                                      - Deadlocks
+                                      - Multithreading
+                                      - Multiprocessing / multiprogramming / multitasking
+                                      - Monitors
+                                      - Mutual exclusion
+                                      - Concurrency control
+                                      - Power management
+                                      - Process synchronization
+                              - details:
+                                  summary: Communications management
+                                  ul:
+                                    li:
+                                      - Buffering
+                                      - Input / output
+                                      - Message passing
+                      - details:
+                          summary: Virtual worlds software
+                          ul:
+                            li:
+                              - Interactive games
+                              - Virtual worlds training simulations
+              - details:
+                  summary: Software system structures
+                  ul:
+                    li:
+                      - Embedded software
+                      - details:
+                          summary: Software architectures
+                          ul:
+                            li:
+                              - n-tier architectures
+                              - Peer-to-peer architectures
+                              - Data flow architectures
+                              - Cooperating communicating processes
+                              - Layered systems
+                              - Publish-subscribe / event-based architectures
+                              - Electronic blackboards
+                              - Simulator / interpreter
+                              - Object oriented architectures
+                              - Tightly coupled architectures
+                              - Space-based architectures
+                              - 3-tier architectures
+                      - details:
+                          summary: Software system models
+                          ul:
+                            li:
+                              - 
+                              - Petri nets
+                              - State systems
+                              - Entity relationship modeling
+                              - Model-driven software engineering
+                              - Feature interaction
+                              - Massively parallel systems
+                      - Ultra-large-scale systems
+                      - details:
+                          summary: Distributed systems organizing principles
+                          ul:
+                            li:
+                              - Cloud computing
+                              - Client-server architectures
+                              - Grid computing
+                              - Organizing principles for web applications
+                      - Real-time systems software
+                      - Abstraction, modeling and modularity
+              - details:
+                  summary: Software functional properties
+                  ul:
+                    li:
+                      - details:
+                          summary: Correctness
+                          ul:
+                            li:
+                              - Synchronization
+                              - Functionality
+                              - Real-time schedulability
+                              - Consistency
+                              - Completeness
+                              - Access protection
+                      - details:
+                          summary: Formal methods
+                          ul:
+                            li:
+                              - Model checking
+                              - Software verification
+                              - Automated static analysis
+                              - Dynamic analysis
+              - details:
+                  summary: Extra-functional properties
+                  ul:
+                    li:
+                      - Interoperability
+                      - Software performance
+                      - Software reliability
+                      - details:
+                          summary: Software fault tolerance
+                          ul:
+                            li:
+                              - Checkpoint / restart
+                      - Software safety
+                      - Software usability
+      - details:
+          summary: Software notations and tools
+          ul:
+            li:
+              - details:
+                  summary: General programming languages
+                  ul:
+                    li:
+                      - details:
+                          summary: Language types
+                          ul:
+                            li:
+                              - Parallel programming languages
+                              - Distributed programming languages
+                              - Imperative languages
+                              - Object oriented languages
+                              - Functional languages
+                              - Concurrent programming languages
+                              - Constraint and logic languages
+                              - Data flow languages
+                              - Extensible languages
+                              - Assembly languages
+                              - Multiparadigm languages
+                              - Very high level languages
+                      - details:
+                          summary: Language features
+                          ul:
+                            li:
+                              - Abstract data types
+                              - Polymorphism
+                              - Inheritance
+                              - Control structures
+                              - Data types and structures
+                              - Classes and objects
+                              - Modules / packages
+                              - Constraints
+                              - Recursion
+                              - Concurrent programming structures
+                              - Procedures, functions and subroutines
+                              - Patterns
+                              - Coroutines
+                              - Frameworks
+              - details:
+                  summary: Formal language definitions
+                  ul:
+                    li:
+                      - Syntax
+                      - Semantics
+              - details:
+                  summary: Compilers
+                  ul:
+                    li:
+                      - Interpreters
+                      - Incremental compilers
+                      - Retargetable compilers
+                      - Just-in-time compilers
+                      - Dynamic compilers
+                      - Translator writing systems and compiler generators
+                      - Source code generation
+                      - Runtime environments
+                      - Preprocessors
+                      - Parsers
+              - details:
+                  summary: Context specific languages
+                  ul:
+                    li:
+                      - details:
+                          summary: Markup languages
+                          ul:
+                            li:
+                              - Extensible Markup Language (XML)
+                              - Hypertext languages
+                      - Scripting languages
+                      - Domain specific languages
+                      - Specialized application languages
+                      - API languages
+                      - Graphical user interface languages
+                      - Window managers
+                      - Command and control languages
+                      - Macro languages
+                      - Programming by example
+                      - State based definitions
+                      - Visual languages
+                      - Interface definition languages
+              - details:
+                  summary: System description languages
+                  ul:
+                    li:
+                      - Design languages
+                      - Unified Modeling Language (UML)
+                      - Architecture description languages
+                      - System modeling languages
+                      - Orchestration languages
+                      - Integration frameworks
+                      - Specification languages
+              - details:
+                  summary: Development frameworks and environments
+                  ul:
+                    li:
+                      - Object oriented frameworks
+                      - Software as a service orchestration system
+                      - Integrated and visual development environments
+                      - Application specific development environments
+              - Software configuration management and version control systems
+              - Software libraries and repositories
+              - Software maintenance tools
+      - details:
+          summary: Software creation and management
+          ul:
+            li:
+              - details:
+                  summary: Designing software
+                  ul:
+                    li:
+                      - Requirements analysis
+                      - Software design engineering
+                      - Software design tradeoffs
+                      - details:
+                          summary: Software implementation planning
+                          ul:
+                            li:
+                              - Software design techniques
+              - details:
+                  summary: Software development process management
+                  ul:
+                    li:
+                      - details:
+                          summary: Software development methods
+                          ul:
+                            li:
+                              - Rapid application development
+                              - Agile software development
+                              - Capability Maturity Model
+                              - Waterfall model
+                              - Spiral model
+                              - V-model
+                              - Design patterns
+                      - Risk management
+              - details:
+                  summary: Software development techniques
+                  ul:
+                    li:
+                      - Software prototyping
+                      - Object oriented development
+                      - Flowcharts
+                      - details:
+                          summary: Reusability
+                          ul:
+                            li:
+                              - Software product lines
+                      - Error handling and recovery
+                      - details:
+                          summary: Automatic programming
+                          ul:
+                            li:
+                              - Genetic programming
+              - details:
+                  summary: Software verification and validation
+                  ul:
+                    li:
+                      - Software prototyping
+                      - Operational analysis
+                      - details:
+                          summary:  Software defect analysis
+                          ul:
+                            li:
+                              - Software testing and debugging
+                      - Fault tree analysis
+                      - details:
+                          summary: Process validation
+                          ul:
+                            li:
+                              - Walkthroughs
+                              - Pair programming
+                              - Use cases
+                              - Acceptance testing
+                              - Traceability
+                      - Formal software verification
+                      - Empirical software validation
+              - details:
+                  summary: Software post-development issues
+                  ul:
+                    li:
+                      - Software reverse engineering
+                      - Documentation
+                      - Backup procedures
+                      - Software evolution
+                      - Software version control
+                      - Maintaining software
+                      - System administration
+              - details:
+                  summary: Collaboration in software development
+                  ul:
+                    li:
+                      - Open source model
+                      - Programming teams
+              - details:
+                  summary: Contextual software domains
+                  ul:
+                    li:
+                      - Search-based software engineering
+                      

@@ -1,0 +1,335 @@
+details:
+  summary: Theory of computation
+  ul:
+    li:
+      - details:
+          summary: Models of computation
+          ul:
+            li:
+              - details:
+                  summary: Computability
+                  ul:
+                    li:
+                      - Lambda calculus
+                      - Turing machines
+                      - Recursive functions
+              - Probabilistic computation
+              - details:
+                  summary: Quantum computation theory
+                  ul:
+                    li:
+                      - Quantum complexity theory
+                      - Quantum communication complexity
+                      - Quantum query complexity
+                      - Quantum information theory
+              - Interactive computation
+              - Streaming models
+              - details:
+                  summary: Concurrency
+                  ul:
+                    li:
+                      - Parallel computing models
+                      - Distributed computing models
+                      - Process calculi
+              - Timed and hybrid models
+              - Abstract machines
+      - details:
+          summary: Formal languages and automata theory
+          ul:
+            li:
+              - details:
+                  summary: Formalisms
+                  ul:
+                    li:
+                      - Algebraic language theory
+                      - Rewrite systems
+              - Automata over infinite objects
+              - Grammars and context-free languages
+              - Tree languages
+              - details:
+                  summary: Automata extensions
+                  ul:
+                    li:
+                      - Transducers
+                      - Quantitative automata
+              - Regular languages
+      - details:
+          summary: Computational complexity and cryptography
+          ul:
+            li:
+              - Complexity classes
+              - Problems, reductions and completeness
+              - Communication complexity
+              - Circuit complexity
+              - Oracles and decision trees
+              - Algebraic complexity theory
+              - Quantum complexity theory
+              - Proof complexity
+              - Interactive proof systems
+              - Complexity theory and logic
+              - Cryptographic primitives
+              - Cryptographic protocols
+      - details:
+          summary: Logic
+          ul:
+            li:
+              - Logic and verification
+              - Proof theory
+              - Modal and temporal logics
+              - Automated reasoning
+              - Constraint and logic programming
+              - Constructive mathematics
+              - Description logics
+              - Equational logic and rewriting
+              - Finite Model Theory
+              - Higher order logic
+              - Linear logic
+              - Programming logic
+              - Abstraction
+              - Verification by model checking
+              - Type theory
+              - Hoare logic
+              - Separation logic
+      - details:
+          summary: Design and analysis of algorithms
+          ul:
+            li:
+              - details:
+                  summary: Graph algorithms analysis
+                  ul:
+                    li:
+                      - Network flows
+                      - Sparsification and spanners
+                      - Shortest paths
+                      - Dynamic graph algorithms
+              - details:
+                  summary: Approximation algorithms analysis
+                  ul:
+                    li:
+                      - Scheduling algorithms
+                      - Packing and covering problems
+                      - Routing and network design problems
+                      - Facility location and clustering
+                      - Rounding techniques
+                      - Stochastic approximation
+                      - Numeric approximation algorithms
+              - details:
+                  summary: Mathematical optimization
+                  ul:
+                    li:
+                      - details:
+                          summary: Discrete optimization
+                          ul:
+                            li:
+                              - Network optimization
+                              - details:
+                                  summary: Optimization with randomized search heuristics
+                                  ul:
+                                    li:
+                                      - Simulated annealing
+                                      - Evolutionary algorithms
+                                      - Tabu search
+                                      - Randomized local search
+                      - details:
+                          summary: Continuous optimization
+                          ul:
+                            li:
+                              - Linear programming
+                              - Semidefinite programming
+                              - Convex optimization
+                              - Quasiconvex programming and unimodality
+                              - Stochastic control and optimization
+                              - Quadratic programming
+                              - Nonconvex optimization
+                              - Bio-inspired optimization
+                      - details:
+                          summary: Mixed discrete-continuous optimization
+                          ul:
+                            li:
+                              - Submodular optimization and polymatroids
+                              - Integer programming
+                              - Bio-inspired optimization
+                      - details:
+                          summary: Non-parametric optimization
+                          ul:
+                            li:
+                              - Genetic programming
+                              - Developmental representations
+              - details:
+                  summary: Data structures design and analysis
+                  ul:
+                    li:
+                      - Data compression
+                      - Pattern matching
+                      - Sorting and searching
+                      - Predecessor queries
+                      - Cell probe models and lower bounds
+              - details:
+                  summary: Online algorithms
+                  ul:
+                    li:
+                      - Online learning algorithms
+                      - Scheduling algorithms
+                      - Caching and paging algorithms
+                      - K-server algorithms
+                      - Adversary models
+              - details:
+                  summary: Parameterized complexity and exact algorithms
+                  ul:
+                    li:
+                      - Fixed parameter tractability
+                      - W hierarchy
+              - details:
+                  summary: Streaming, sublinear and near linear time algorithms
+                  ul:
+                    li:
+                      - Bloom filters and hashing
+                      - Sketching and sampling
+                      - Lower bounds and information complexity
+                      - Random order and robust communication complexity
+                      - Nearest neighbor algorithms
+              - details:
+                  summary: Parallel algorithms
+                  ul:
+                    li:
+                      - MapReduce algorithms
+                      - Self-organization
+                      - Shared memory algorithms
+                      - Vector / streaming algorithms
+                      - Massively parallel algorithms
+              - details:
+                  summary: Distributed algorithms
+                  ul:
+                    li:
+                      - MapReduce algorithms
+                      - Self-organization
+              - details:
+                  summary: Algorithm design techniques
+                  ul:
+                    li:
+                      - Backtracking
+                      - Branch-and-bound
+                      - Divide and conquer
+                      - Dynamic programming
+                      - Preconditioning
+              - Concurrent algorithms
+      - details:
+          summary: Randomness, geometry and discrete structures
+          ul:
+            li:
+              - Pseudorandomness and derandomization
+              - Computational geometry
+              - Generating random combinatorial structures
+              - Random walks and Markov chains
+              - Expander graphs and randomness extractors
+              - Error-correcting codes
+              - Random projections and metric embeddings
+              - Random network models
+              - Random search heuristics
+      - details:
+          summary: Theory and algorithms for application domains
+          ul:
+            li:
+              - details:
+                  summary: Machine learning theory
+                  ul:
+                    li:
+                      - Sample complexity and generalization bounds
+                      - Boolean function learning
+                      - Unsupervised learning and clustering
+                      - details:
+                          summary: Kernel methods
+                          ul:
+                            li:
+                              - Support vector machines
+                              - Gaussian processes
+                      - Boosting
+                      - Bayesian analysis
+                      - Inductive inference
+                      - Online learning theory
+                      - Multi-agent learning
+                      - Models of learning
+                      - Query learning
+                      - Structured prediction
+                      - details:
+                          summary: Reinforcement learning
+                          ul:
+                            li:
+                              - Sequential decision making
+                              - Inverse reinforcement learning
+                              - Apprenticeship learning
+                              - Multi-agent reinforcement learning
+                              - Adversarial learning
+                      - Active learning
+                      - Semi-supervised learning
+                      - Markov decision processes
+                      - Regret bounds
+              - details:
+                  summary: Algorithmic game theory and mechanism design
+                  ul:
+                    li:
+                      - Social networks
+                      - Algorithmic game theory
+                      - Algorithmic mechanism design
+                      - Solution concepts in game theory
+                      - Exact and approximate computation of equilibria
+                      - Quality of equilibria
+                      - Convergence and learning in games
+                      - Market equilibria
+                      - Computational pricing and auctions
+                      - Representations of games and their complexity
+                      - Network games
+                      - Network formation
+                      - Computational advertising theory
+              - details:
+                  summary: Database theory
+                  ul:
+                    li:
+                      - Data exchange
+                      - Data provenance
+                      - Data modeling
+                      - Database query languages (principles)
+                      - Database constraints theory
+                      - Database interoperability
+                      - Data structures and algorithms for data management
+                      - Database query processing and optimization (theory)
+                      - Data integration
+                      - Logic and databases
+                      - Theory of database privacy and security
+                      - Incomplete, inconsistent, and uncertain databases
+              - Theory of randomized search heuristics
+      - details:
+          summary: Semantics and reasoning
+          ul:
+            li:
+              - details:
+                  summary: Program constructs
+                  ul:
+                    li:
+                      - Control primitives
+                      - Functional constructs
+                      - Object oriented constructs
+                      - Program schemes
+                      - Type structures
+              - details:
+                  summary: Program semantics
+                  ul:
+                    li:
+                      - Algebraic semantics
+                      - Denotational semantics
+                      - Operational semantics
+                      - Axiomatic semantics
+                      - Action semantics
+                      - Categorical semantics
+              - details:
+                  summary: Program reasoning
+                  ul:
+                    li:
+                      - Invariants
+                      - Program specifications
+                      - Pre- and post-conditions
+                      - Program verification
+                      - Program analysis
+                      - Assertions
+                      - Parsing
+                      - Abstraction

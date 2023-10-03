@@ -1,0 +1,528 @@
+details:
+  summary: Information systems
+  ul:
+    li:
+      - details:
+          summary: Data management systems
+          ul:
+            li:
+              - details: 
+                  summary: Database design and models
+                  ul:
+                    li:
+                      - Relational database model
+                      - Entity relationship models
+                      - details:
+                          summary: Graph-based database models
+                          ul:
+                            li:
+                              - Hierarchical data models
+                              - Network data models
+                      - Physical data models
+                      - details:
+                          summary: Data model extensions
+                          ul:
+                            li:
+                              - Semi-structured data
+                              - Data streams
+                              - Data provenance
+                              - Incomplete data
+                              - Temporal data
+                              - Uncertainty
+                              - Inconsistent data
+              - details: 
+                  summary: Data structures
+                  ul:
+                    li:
+                      - details:
+                          summary: Data access methods
+                          ul:
+                            li:
+                              - Multidimensional range search
+                              - Data scans
+                              - Point lookups
+                              - Unidimensional range search
+                              - Proximity search
+                      - details:
+                          summary: Data layout
+                          ul:
+                            li:
+                              - Data compression
+                              - Data encryption
+                              - Record and block layout
+              - details: 
+                  summary: Database management system engines
+                  ul:
+                    li:
+                      - DBMS engine architectures
+                      - details:
+                          summary: Database query processing
+                          ul:
+                            li:
+                              - Query optimization
+                              - Query operators
+                              - Query planning
+                              - Join algorithms
+                      - details:
+                          summary: Database transaction processing
+                          ul:
+                            li:
+                              - Data locking
+                              - Transaction logging
+                              - Database recovery
+                      - Record and buffer management
+                      - details:
+                          summary: Parallel and distributed DBMSs
+                          ul:
+                            li:
+                              - Key-value stores
+                              - MapReduce-based systems
+                              - Relational parallel and distributed DBMSs
+                      - Triggers and rules
+                      - Database views
+                      - Integrity checking
+                      - details:
+                          summary: Distributed database transactions
+                          ul:
+                            li:
+                              - Distributed data locking
+                              - Deadlocks
+                              - Distributed database recovery
+                      - Main memory engines
+                      - Online analytical processing engines
+                      - Stream management
+              - details: 
+                  summary: Query languages
+                  ul:
+                    li:
+                      - details:
+                          summary: Relational database query languages
+                          ul:
+                            li:
+                              - Structured Query Language
+                      - details:
+                          summary: XML query languages
+                          ul:
+                            li:
+                              - XPath
+                              - XQuery
+                      - details:
+                          summary: Query languages for non-relational engines
+                          ul:
+                            li:
+                              - MapReduce languages
+                      - Call level interfaces
+              - details: 
+                  summary: Database design and models
+                  ul:
+                    li:
+                      - Database administration
+                      - Database utilities and tools
+                      - Database performance evaluation
+                      - Autonomous database administration
+                      - Data dictionaries
+              - details: 
+                  summary: Database design and models
+                  ul:
+                    li:
+                      - Information integration
+                      - Deduplication
+                      - Extraction, transformation and loading
+                      - Data exchange
+                      - Data cleaning
+                      - Wrappers (data mining)
+                      - Mediators and data integration
+                      - Entity resolution
+                      - Data warehouses
+                      - Federated databases
+              - details: 
+                  summary: Database design and models
+                  ul:
+                    li:
+                      - Middleware for databases
+                      - Database web servers
+                      - Application servers
+                      - Object-relational mapping facilities
+                      - Data federation tools
+                      - Data replication tools
+                      - Distributed transaction monitors
+                      - Message queues
+                      - Service buses
+                      - Enterprise application integration tools
+                      - Middleware business process managers
+      - details:
+          summary: Information storage systems
+          ul:
+            li:
+              - details: 
+                  summary: Information storage technologies
+                  ul:
+                    li:
+                      - Magnetic disks
+                      - Magnetic tapes
+                      - Optical / magneto-optical disks
+                      - details:
+                          summary: Storage class memory
+                          ul:
+                            li: 
+                              - Flash memory
+                              - Phase change memory
+                      - Disk arrays
+                      - Tape libraries
+              - details: 
+                  summary: Record storage systems
+                  ul:
+                    li:
+                      - details:
+                          summary: Record storage alternatives
+                          ul:
+                            li:
+                              - Heap (data structure)
+                              - Hashed file organization
+                              - Indexed file organization
+                              - Linked lists
+                      - details:
+                          summary: Directory structures
+                          ul:
+                            li:
+                              - B-trees
+                              - Vnodes
+                              - Inodes
+                              - Extent-based file structures
+                      - details:
+                          summary: Block / page strategies
+                          ul:
+                            li:
+                              - Slotted pages
+                              - Intrapage space management
+                              - Interpage free-space management
+                      - details:
+                          summary: Record layout alternatives
+                          ul:
+                            li:
+                              - Fixed length attributes
+                              - Variable length attributes
+                              - Null values in records
+                      - details:
+                          summary: Relational storage
+                          ul:
+                            li:
+                              - Horizontal partitioning
+                              - Vertical partitioning
+                              - Column based storage
+                              - Hybrid storage layouts
+                              - Compression strategies
+              - details: 
+                  summary: Storage replication
+                  ul:
+                    li:
+                      - Mirroring
+                      - RAID
+                      - Point-in-time copies
+                      - Remote replication
+                      - Storage recovery strategies
+              - details: 
+                  summary: Storage architectures
+                  ul:
+                    li:
+                      - Cloud based storage
+                      - details:
+                          summary: Storage network architectures
+                          ul:
+                            li:
+                              - Storage area networks
+                              - Direct attached storage
+                              - Network attached storage
+                      - Distributed storage
+              - details: 
+                  summary: Storage management
+                  ul:
+                    li:
+                      - Hierarchical storage management
+                      - Storage virtualization
+                      - Information lifecycle management
+                      - Version management
+                      - Storage power management
+                      - Thin provisioning
+      - details:
+          summary: Information systems applications
+          ul:
+            li:
+              - details: 
+                  summary: Enterprise information systems
+                  ul:
+                    li:
+                      - Intranets
+                      - Extranets
+                      - Enterprise resource planning
+                      - Enterprise applications
+                      - Data centers
+              - details: 
+                  summary: Collaborative and social computing systems and tools
+                  ul:
+                    li:
+                      - Blogs
+                      - Wikis
+                      - Reputation systems
+                      - Open source software
+                      - Social networking sites
+                      - Social tagging systems
+                      - Synchronous editors
+                      - Asynchronous editors
+              - details: 
+                  summary: Spatial-temporal systems
+                  ul:
+                    li:
+                      - Location based services
+                      - Geographic information systems
+                      - Sensor networks
+                      - Data streaming
+                      - Global positioning systems
+              - details: 
+                  summary: Decision support systems
+                  ul:
+                    li:
+                      - Data warehouses
+                      - Expert systems
+                      - Data analytics
+                      - Online analytical processing
+              - Mobile information processing systems
+              - Process control systems
+              - details: 
+                  summary: Multimedia information systems
+                  ul:
+                    li:
+                      - Multimedia databases
+                      - Multimedia streaming
+                      - Multimedia content creation
+                      - Massively multiplayer online games
+              - details: 
+                  summary: Data mining
+                  ul:
+                    li:
+                      - Data cleaning
+                      - Collaborative filtering
+                      - Association rules
+                      - Clustering
+                      - Nearest-neighbor search
+                      - Data stream mining
+              - Digital libraries and archives
+              - Computational advertising
+              - Computing platforms
+      - details:
+          summary: World Wide Web
+          ul:
+            li:
+              - details: 
+                  summary: Web searching and information discovery
+                  ul:
+                    li:
+                      - details:
+                          summary: Web search engines
+                          ul:
+                            li:
+                              - Web crawling
+                              - Web indexing
+                              - Page and site ranking
+                              - Spam detection
+                      - Content ranking
+                      - Collaborative filtering
+                      - Social recommendation
+                      - Personalization
+                      - Social tagging
+              - details: 
+                  summary: Online advertising
+                  ul:
+                    li:
+                      - Sponsored search advertising
+                      - Content match advertising
+                      - Display advertising
+                      - Social advertising
+              - details: 
+                  summary: Web mining
+                  ul:
+                    li:
+                      - Site wrapping
+                      - details:
+                          summary: Data extraction and integration
+                          ul:
+                            li:
+                              - Deep web
+                              - Surfacing
+                              - Search results deduplication
+                      - Web log analysis
+                      - Traffic analysis
+              - details: 
+                  summary: Web applications
+                  ul:
+                    li:
+                      - details:
+                          summary: Internet communications tools
+                          ul:
+                            li:
+                              - Email
+                              - Blogs
+                              - Texting
+                              - Chat
+                              - Web conferencing
+                      - Social networks
+                      - details:
+                          summary: Crowdsourcing
+                          ul:
+                            li:
+                              - Answer ranking
+                              - Trust
+                              - Incentive schemes
+                              - Reputation systems
+                      - details:
+                          summary: Electronic commerce
+                          ul:
+                            li:
+                              - Digital cash
+                              - E-commerce infrastructure
+                              - Electronic data interchange
+                              - Electronic funds transfer
+                              - Online shopping
+                              - Online banking
+                              - Secure online transactions
+                              - Online auctions
+              - details: 
+                  summary: Web interfaces
+                  ul:
+                    li:
+                      - Wikis
+                      - Browsers
+                      - Mashups
+              - details: 
+                  summary: Web services
+                  ul:
+                    li:
+                      - Simple Object Access Protocol (SOAP)
+                      - RESTful web services
+                      - Web Services Description Language (WSDL)
+                      - Universal Description Discovery and Integration (UDDI)
+                      - Service discovery and interfaces
+              - details: 
+                  summary: Web data description languages
+                  ul:
+                    li:
+                      - details:
+                          summary: Semantic web description languages
+                          ul:
+                            li:
+                              - Resource Description Framework (RDF)
+                              - Web Ontology Language (OWL)
+                      - details:
+                          summary: Markup languages
+                          ul:
+                            li:
+                              - Extensible Markup Language (XML)
+                              - Hypertext languages
+      - details:
+          summary: Information retrieval
+          ul:
+            li:
+              - details: 
+                  summary: Document representation
+                  ul:
+                    li:
+                      - Document structure
+                      - Document topic models
+                      - Content analysis and feature selection
+                      - Data encoding and canonicalization
+                      - Document collection models
+                      - Ontologies
+                      - Dictionaries
+                      - Thesauri
+              - details: 
+                  summary: Information retrieval query processing
+                  ul:
+                    li:
+                      - Query representation
+                      - Query intent
+                      - Query log analysis
+                      - Query suggestion
+                      - Query reformulation
+              - details: 
+                  summary: Users and interactive retrieval
+                  ul:
+                    li:
+                      - Personalization
+                      - Task models
+                      - Search interfaces
+                      - Collaborative search
+              - details: 
+                  summary: Retrieval models and ranking
+                  ul:
+                    li:
+                      - Rank aggregation
+                      - Probabilistic retrieval models
+                      - Language models
+                      - Similarity measures
+                      - Learning to rank
+                      - Combination, fusion and federated search
+                      - Information retrieval diversity
+                      - Top-k retrieval in databases
+                      - Novelty in information retrieval
+              - details: 
+                  summary: Retrieval tasks and goals
+                  ul:
+                    li:
+                      - Question answering
+                      - Document filtering
+                      - Recommender systems
+                      - Information extraction
+                      - Sentiment analysis
+                      - Expert search
+                      - Near-duplicate and plagiarism detection
+                      - Clustering and classification
+                      - Summarization
+                      - Business intelligence
+              - details: 
+                  summary: Evaluation of retrieval results
+                  ul:
+                    li:
+                      - Test collections
+                      - Relevance assessment
+                      - Retrieval effectiveness
+                      - Retrieval efficiency
+                      - Presentation of retrieval results
+              - details: 
+                  summary: Search engine architectures and scalability
+                  ul:
+                    li:
+                      - Search engine indexing
+                      - Search index compression
+                      - Distributed retrieval
+                      - Peer-to-peer retrieval
+                      - Retrieval on mobile devices
+                      - Adversarial retrieval
+                      - Link and co-citation analysis
+                      - Searching with auxiliary databases
+              - details: 
+                  summary: Specialized information retrieval
+                  ul:
+                    li:
+                      - details:
+                          summary: Structure and multilingual text search
+                          ul:
+                            li:
+                              - Structured text search
+                              - Mathematics retrieval
+                              - Chemical and biochemical retrieval
+                              - Multilingual and cross-lingual retrieval
+                      - details:
+                          summary: Multimedia and multimodal retrieval
+                          ul:
+                            li:
+                              - Image search
+                              - Video search
+                              - Speech / audio search
+                              - Music retrieval
+                      - details:
+                          summary: Environment-specific retrieval
+                          ul:
+                            li:
+                              - Enterprise search
+                              - Desktop search
+                              - Web and social media search
